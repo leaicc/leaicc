@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=leaicc)](https://github.com/leaicc/github-readme-stats)
 
 <!--
 **leaicc/leaicc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
